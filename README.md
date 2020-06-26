@@ -1,6 +1,8 @@
 Download the new sounds in macOS 11 Big Sur
 
-## Downloads
+## Sounds
+### Error Sounds
+**These can be chosen in System Preferences to be played when an error is encountered, such as pressing a key where it is not supported.**
 * [Basso](https://bigsur-sounds.itsnoahevans.co.uk/sounds/Basso.aiff)
 * [Blow](https://bigsur-sounds.itsnoahevans.co.uk/sounds/Blow.aiff)
 * [Bottle](https://bigsur-sounds.itsnoahevans.co.uk/sounds/Bottle.aiff)
