@@ -1,4 +1,4 @@
- Sounds extracted from macOS 11 Big Sur
+ Sounds extracted from macOS 11 Big Sur Beta 1
 
 ### [Download Entire Library](https://bigsur-sounds.itsnoahevans.co.uk/BigSur-Sounds-All.zip)
 
