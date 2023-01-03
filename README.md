@@ -26,7 +26,7 @@
 * [Slow Keys Key Registered](https://bigsur-sounds.itsnoahevans.co.uk/sounds/accessibility/Slow-Keys-Key-Registered.aif)
 * [Sticky Keys Locked](https://bigsur-sounds.itsnoahevans.co.uk/sounds/accessibility/Sticky-Keys-Locked.aif)
 * [Sticky Keys MODIFER](https://bigsur-sounds.itsnoahevans.co.uk/sounds/accessibility/Sticky-Keys-MODIFER.aif)
-(yes, that is "modifer", not "modifier", someone at Apple did an oopsie)
+(yes, that is "modifer", not "modifier", someone at Apple made a typo I guess!)
 * [Sticky Keys Off](https://bigsur-sounds.itsnoahevans.co.uk/sounds/accessibility/Sticky-Keys-OFF.aif)
 * [Sticky Keys On](https://bigsur-sounds.itsnoahevans.co.uk/sounds/accessibility/Sticky-Keys-ON.aif)
 * [Sticky Keys Stuck](https://bigsur-sounds.itsnoahevans.co.uk/sounds/accessibility/Sticky-Keys-Stuck.aif)
